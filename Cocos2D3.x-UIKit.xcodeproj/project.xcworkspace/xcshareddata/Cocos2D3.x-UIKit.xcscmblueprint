@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4DFE798EAC57B6472C9AC9F486265D3AF3263024",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4DFE798EAC57B6472C9AC9F486265D3AF3263024" : 0,
+    "7E588F51FB205EF7EA2C4ABAF6AA740D5190F892" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B9F877BC-79B6-45AB-999B-5284BB89A1A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4DFE798EAC57B6472C9AC9F486265D3AF3263024" : "Cocos2D3.x-UIKit\/",
+    "7E588F51FB205EF7EA2C4ABAF6AA740D5190F892" : "Cocos2D3.x-UIKit\/Cocos2D3.x-UIKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cocos2D3.x-UIKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cocos2D3.x-UIKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/inouesatoru\/MoeTrain.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4DFE798EAC57B6472C9AC9F486265D3AF3263024"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/inouesatoru\/Moe-Train.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E588F51FB205EF7EA2C4ABAF6AA740D5190F892"
+    }
+  ]
+}
