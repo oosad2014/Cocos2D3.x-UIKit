@@ -9,6 +9,20 @@
 /* Begin PBXBuildFile section */
 		0F126BAB1CB7A30E00E9E2A6 /* createModeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F126BA91CB7A30E00E9E2A6 /* createModeButton.png */; };
 		0F126BAC1CB7A30E00E9E2A6 /* removeModeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F126BAA1CB7A30E00E9E2A6 /* removeModeButton.png */; };
+		0F2106501CB7CEDE005994B1 /* travelModeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21064F1CB7CEDE005994B1 /* travelModeButton.png */; };
+		0F2106681CB89F88005994B1 /* 5Stage_1_GuangDong.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F2106641CB89F88005994B1 /* 5Stage_1_GuangDong.png */; };
+		0F2106691CB89F88005994B1 /* 5Stage_1_TaiWan.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F2106651CB89F88005994B1 /* 5Stage_1_TaiWan.png */; };
+		0F21066A1CB89F88005994B1 /* 5Stage_1_HaiNan.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F2106661CB89F88005994B1 /* 5Stage_1_HaiNan.png */; };
+		0F21066B1CB89F88005994B1 /* 5Stage_1_GuangXi.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F2106671CB89F88005994B1 /* 5Stage_1_GuangXi.png */; };
+		0F21066E1CB8A242005994B1 /* 5Stage_1_GuiZhou.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21066C1CB8A242005994B1 /* 5Stage_1_GuiZhou.png */; };
+		0F21066F1CB8A242005994B1 /* 5Stage_1_YunNan.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21066D1CB8A242005994B1 /* 5Stage_1_YunNan.png */; };
+		0F66D13D1CBFC2910086EDD5 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F66D13C1CBFC2910086EDD5 /* green.png */; };
+		0FB35C0B1CBB522100CBE9AF /* stagePoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FB35C0A1CBB522100CBE9AF /* stagePoint.png */; };
+		0FE58AB21CBB79F1000C8B99 /* StageNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE58AB11CBB79F1000C8B99 /* StageNode.m */; };
+		0FE58AB51CBB883F000C8B99 /* GuangDong.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FE58AB31CBB883F000C8B99 /* GuangDong.png */; };
+		0FE58AB61CBB883F000C8B99 /* stage_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FE58AB41CBB883F000C8B99 /* stage_1.png */; };
+		0FE58ABA1CBBA493000C8B99 /* 5Stage_1_HongKong.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FE58AB91CBBA493000C8B99 /* 5Stage_1_HongKong.png */; };
+		0FE58ABC1CBBDA63000C8B99 /* GuangDong_Stage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FE58ABB1CBBDA63000C8B99 /* GuangDong_Stage.png */; };
 		6337DB561C44926E007DAA4E /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 6337DB551C44926E007DAA4E /* Default.png */; };
 		6337DB581C44926E007DAA4E /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6337DB571C44926E007DAA4E /* Default@2x.png */; };
 		6337DB5A1C44926E007DAA4E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6337DB591C44926E007DAA4E /* Default-568h@2x.png */; };
@@ -254,6 +268,21 @@
 /* Begin PBXFileReference section */
 		0F126BA91CB7A30E00E9E2A6 /* createModeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = createModeButton.png; path = Resources/icon/createModeButton.png; sourceTree = "<group>"; };
 		0F126BAA1CB7A30E00E9E2A6 /* removeModeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = removeModeButton.png; path = Resources/icon/removeModeButton.png; sourceTree = "<group>"; };
+		0F21064F1CB7CEDE005994B1 /* travelModeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = travelModeButton.png; path = Resources/icon/travelModeButton.png; sourceTree = "<group>"; };
+		0F2106641CB89F88005994B1 /* 5Stage_1_GuangDong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5Stage_1_GuangDong.png; path = "Resources/5+/stage_1/5Stage_1_GuangDong.png"; sourceTree = "<group>"; };
+		0F2106651CB89F88005994B1 /* 5Stage_1_TaiWan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5Stage_1_TaiWan.png; path = "Resources/5+/stage_1/5Stage_1_TaiWan.png"; sourceTree = "<group>"; };
+		0F2106661CB89F88005994B1 /* 5Stage_1_HaiNan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5Stage_1_HaiNan.png; path = "Resources/5+/stage_1/5Stage_1_HaiNan.png"; sourceTree = "<group>"; };
+		0F2106671CB89F88005994B1 /* 5Stage_1_GuangXi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5Stage_1_GuangXi.png; path = "Resources/5+/stage_1/5Stage_1_GuangXi.png"; sourceTree = "<group>"; };
+		0F21066C1CB8A242005994B1 /* 5Stage_1_GuiZhou.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5Stage_1_GuiZhou.png; path = "Resources/5+/stage_1/5Stage_1_GuiZhou.png"; sourceTree = "<group>"; };
+		0F21066D1CB8A242005994B1 /* 5Stage_1_YunNan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5Stage_1_YunNan.png; path = "Resources/5+/stage_1/5Stage_1_YunNan.png"; sourceTree = "<group>"; };
+		0F66D13C1CBFC2910086EDD5 /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = green.png; path = Resources/green.png; sourceTree = "<group>"; };
+		0FB35C0A1CBB522100CBE9AF /* stagePoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = stagePoint.png; path = "Resources/5+/stagePoint.png"; sourceTree = "<group>"; };
+		0FE58AB01CBB79DF000C8B99 /* StageNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = StageNode.h; path = Classes/Model/StageNode.h; sourceTree = "<group>"; };
+		0FE58AB11CBB79F1000C8B99 /* StageNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StageNode.m; path = Classes/Model/StageNode.m; sourceTree = "<group>"; };
+		0FE58AB31CBB883F000C8B99 /* GuangDong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GuangDong.png; path = "Resources/5+/stage_1/GuangDong.png"; sourceTree = "<group>"; };
+		0FE58AB41CBB883F000C8B99 /* stage_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = stage_1.png; path = "Resources/5+/stage_1/stage_1.png"; sourceTree = "<group>"; };
+		0FE58AB91CBBA493000C8B99 /* 5Stage_1_HongKong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5Stage_1_HongKong.png; path = "Resources/5+/stage_1/5Stage_1_HongKong.png"; sourceTree = "<group>"; };
+		0FE58ABB1CBBDA63000C8B99 /* GuangDong_Stage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GuangDong_Stage.png; path = "Resources/5+/stage_1/GuangDong_Stage.png"; sourceTree = "<group>"; };
 		6337DB4E1C44926E007DAA4E /* Cocos2D3.x-UIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cocos2D3.x-UIKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6337DB521C44926E007DAA4E /* libObjectiveChipmunk.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libObjectiveChipmunk.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		6337DB551C44926E007DAA4E /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = Resources/Default.png; sourceTree = "<group>"; };
@@ -759,6 +788,9 @@
 		0F126BA81CB79A4E00E9E2A6 /* 5+ */ = {
 			isa = PBXGroup;
 			children = (
+				0FB35C0A1CBB522100CBE9AF /* stagePoint.png */,
+				0F2106531CB89A95005994B1 /* stage_1 */,
+				0F21064F1CB7CEDE005994B1 /* travelModeButton.png */,
 				0F126BA91CB7A30E00E9E2A6 /* createModeButton.png */,
 				0F126BAA1CB7A30E00E9E2A6 /* removeModeButton.png */,
 				63E0D71A1C477F1C00E388CA /* backGround3.png */,
@@ -776,6 +808,23 @@
 				63E4EBA61C4F406200CA46FE /* BackGround.tmx */,
 			);
 			name = "5+";
+			sourceTree = "<group>";
+		};
+		0F2106531CB89A95005994B1 /* stage_1 */ = {
+			isa = PBXGroup;
+			children = (
+				0F2106641CB89F88005994B1 /* 5Stage_1_GuangDong.png */,
+				0F2106671CB89F88005994B1 /* 5Stage_1_GuangXi.png */,
+				0F21066C1CB8A242005994B1 /* 5Stage_1_GuiZhou.png */,
+				0F2106661CB89F88005994B1 /* 5Stage_1_HaiNan.png */,
+				0FE58AB91CBBA493000C8B99 /* 5Stage_1_HongKong.png */,
+				0F2106651CB89F88005994B1 /* 5Stage_1_TaiWan.png */,
+				0F21066D1CB8A242005994B1 /* 5Stage_1_YunNan.png */,
+				0FE58ABB1CBBDA63000C8B99 /* GuangDong_Stage.png */,
+				0FE58AB31CBB883F000C8B99 /* GuangDong.png */,
+				0FE58AB41CBB883F000C8B99 /* stage_1.png */,
+			);
+			name = stage_1;
 			sourceTree = "<group>";
 		};
 		6337DB451C44926E007DAA4E = {
@@ -810,6 +859,7 @@
 		6337DB541C44926E007DAA4E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				0F66D13C1CBFC2910086EDD5 /* green.png */,
 				0F126BA71CB79A1D00E9E2A6 /* Image */,
 				63E3FC2E1C9ACF7800B534F8 /* se */,
 				63E3FC1C1C9A7EE800B534F8 /* sound_mute.png */,
@@ -1605,6 +1655,8 @@
 			children = (
 				63E2F5111C99505F004A7E6D /* MySprite.h */,
 				63E2F50F1C995049004A7E6D /* MySprite.m */,
+				0FE58AB01CBB79DF000C8B99 /* StageNode.h */,
+				0FE58AB11CBB79F1000C8B99 /* StageNode.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -1699,9 +1751,11 @@
 				63E3FC1B1C9A7C1200B534F8 /* string.png in Resources */,
 				636FE21C1C45E11F004F4A57 /* line.png in Resources */,
 				6337DB6B1C44926E007DAA4E /* Icon-120.png in Resources */,
+				0F2106691CB89F88005994B1 /* 5Stage_1_TaiWan.png in Resources */,
 				63E3FC291C9AAE4900B534F8 /* crossing.png in Resources */,
 				63E3FC271C9AAE4900B534F8 /* diamond.png in Resources */,
 				63E3FC281C9AAE4900B534F8 /* echelon.png in Resources */,
+				0FE58ABA1CBBA493000C8B99 /* 5Stage_1_HongKong.png in Resources */,
 				6337DB611C44926E007DAA4E /* Icon@2x.png in Resources */,
 				6337DDD61C44ADFF007DAA4E /* backGround.png in Resources */,
 				63E247BC1C58E22400AD1A7B /* rail-up-left.png in Resources */,
@@ -1716,8 +1770,11 @@
 				63E46C7B1C4EA13D0084F12A /* pause_normal.png in Resources */,
 				6337DB651C44926E007DAA4E /* Icon-72@2x.png in Resources */,
 				636FE2241C45E867004F4A57 /* menu.png in Resources */,
+				0F21066A1CB89F88005994B1 /* 5Stage_1_HaiNan.png in Resources */,
 				0F126BAC1CB7A30E00E9E2A6 /* removeModeButton.png in Resources */,
 				636FE2261C45EA26004F4A57 /* menu_normal.png in Resources */,
+				0F21066F1CB8A242005994B1 /* 5Stage_1_YunNan.png in Resources */,
+				0F2106501CB7CEDE005994B1 /* travelModeButton.png in Resources */,
 				639009201C9983F500E8C63B /* train alter.png in Resources */,
 				63DF11631C99BA7600C1EF41 /* bg in Resources */,
 				6337DDEB1C44F06C007DAA4E /* timeField.png in Resources */,
@@ -1730,6 +1787,8 @@
 				6337DB5C1C44926E007DAA4E /* Default-Landscape~ipad.png in Resources */,
 				636FE21F1C45E11F004F4A57 /* square.png in Resources */,
 				63E4EBA71C4F406200CA46FE /* BackGround.tmx in Resources */,
+				0F66D13D1CBFC2910086EDD5 /* green.png in Resources */,
+				0F2106681CB89F88005994B1 /* 5Stage_1_GuangDong.png in Resources */,
 				63E46C791C4EA0230084F12A /* sound_normal.png in Resources */,
 				636FE2211C45E11F004F4A57 /* train.png in Resources */,
 				63E0D71C1C477F1C00E388CA /* backGround2.png in Resources */,
@@ -1744,15 +1803,21 @@
 				63E247C81C58E2A000AD1A7B /* rail-left-right.png in Resources */,
 				6337DCB21C449270007DAA4E /* LICENSE_cocos2d.txt in Resources */,
 				63E247BF1C58E22400AD1A7B /* train-up.png in Resources */,
+				0FE58ABC1CBBDA63000C8B99 /* GuangDong_Stage.png in Resources */,
+				0FE58AB61CBB883F000C8B99 /* stage_1.png in Resources */,
 				639009261C998A0200E8C63B /* train alter 5.png in Resources */,
 				63DC37B21C992624001B7E67 /* 3-4scene.png in Resources */,
+				0F21066E1CB8A242005994B1 /* 5Stage_1_GuiZhou.png in Resources */,
 				636FE2311C463CE8004F4A57 /* return_normal.png in Resources */,
 				63E247B21C58C45200AD1A7B /* train-right.png in Resources */,
 				6337DB5A1C44926E007DAA4E /* Default-568h@2x.png in Resources */,
 				6337DB7A1C44926E007DAA4E /* iTunesArtwork in Resources */,
+				0FE58AB51CBB883F000C8B99 /* GuangDong.png in Resources */,
 				6337DB751C44926E007DAA4E /* Icon-Spotlight-iOS7.png in Resources */,
 				6337DB691C44926E007DAA4E /* Icon-76@2x.png in Resources */,
+				0FB35C0B1CBB522100CBE9AF /* stagePoint.png in Resources */,
 				636FE2201C45E11F004F4A57 /* star.png in Resources */,
+				0F21066B1CB89F88005994B1 /* 5Stage_1_GuangXi.png in Resources */,
 				6337DB771C44926E007DAA4E /* Icon-Spotlight-iOS7@2x.png in Resources */,
 				6337DB671C44926E007DAA4E /* Icon-76.png in Resources */,
 				636FE21A1C45E11F004F4A57 /* circle.png in Resources */,
@@ -1847,6 +1912,7 @@
 				6337DD261C449271007DAA4E /* CCTextField.m in Sources */,
 				6337DBFE1C44926F007DAA4E /* CCNode.m in Sources */,
 				6337DD3E1C449271007DAA4E /* CCBLocalizationManager.m in Sources */,
+				0FE58AB21CBB79F1000C8B99 /* StageNode.m in Sources */,
 				6337DC1C1C44926F007DAA4E /* CCPhysicsJoint.m in Sources */,
 				6337DC511C44926F007DAA4E /* CCTextureCache.m in Sources */,
 				6337DB951C44926E007DAA4E /* CCEffectContrast.m in Sources */,
